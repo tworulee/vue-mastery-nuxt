@@ -1,0 +1,1 @@
+<template><h1>yeni route olusturuldu mu</h1></template>

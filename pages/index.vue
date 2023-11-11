@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-const {data:scizor,error} = await useFetch("/api/bulbasau")
+const {data:scizor,error} = await useFetch("/api/bulbasaur")
 
 </script>
 
